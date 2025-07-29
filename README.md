@@ -77,6 +77,11 @@ Edit
 ├── requirements.txt
 ├── README.md
 
+<img width="1883" height="799" alt="Screenshot 2025-07-29 234654" src="https://github.com/user-attachments/assets/bb31548c-3fbe-4bfe-bbfa-bd2a3ae6164c" />
+
+
+
+
 
 # Output
 Mock Interview with tailored questions
